@@ -5,7 +5,7 @@ __pycache__/
 *$py.class
 
 # Specific to this repo: exclude TPs
-*/TPs/*
+TPs/
 
 # Images
 *.png
